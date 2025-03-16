@@ -1,0 +1,10 @@
+NO ./textures/bricks.xpm
+WE ./textures/gold.xpm
+EA ./textures/wall.xpm
+F 000,100,200
+
+11111
+10001
+10N01
+10001
+11111
